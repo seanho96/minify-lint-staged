@@ -1,6 +1,6 @@
 {
   "name": "minify-lint-staged",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Imagemin CLI for minifying images designed to be used with lint-staged",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
